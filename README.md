@@ -11,7 +11,7 @@
 ```
 $ git clone https://github.com/Kristie-Hu/hexo-theme-elegance.git themes/elegance
 ```
-### Step 2. modify the value of `theme:` in `_config.yml`
+### Step 2. modify the value of `theme:` in `_config.yml`  to  `elegance`
 ```graphql
 # Extensions
 ## Themes: https://hexo.io/themes/
