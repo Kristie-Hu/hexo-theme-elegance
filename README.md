@@ -7,21 +7,21 @@
 # Demo
 
 # Deploy
-#### Step 1. clone theme from github
+### Step 1. clone theme from github
 ```
 $ git clone https://github.com/Kristie-Hu/hexo-theme-elegance.git themes/elegance
 ```
-#### Step 2. modify the value of `theme:` in `_config.yml`
+### Step 2. modify the value of `theme:` in `_config.yml`
 ```
 # Extensions
 ## Themes: https://hexo.io/themes/
 ## Plugins: https://hexo.io/plugins/
 theme: elegance
 ```
-#### Step 3. start the server
+### Step 3. start the server
 ```
-hexo server   # `or hexo s`
+hexo server   # or hexo s
 ```
 default path: `http://localhost:4000/`
 
-### You are _now_ ready to **BLOG** ! Excited?
+### You are _now_ ready to _**GO**_ ! Excited?
