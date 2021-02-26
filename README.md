@@ -15,6 +15,7 @@
 
 
 # Demo
+(not yet available)
 
 # Deploy
 ### Step 1. clone theme from github
