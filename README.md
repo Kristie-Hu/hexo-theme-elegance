@@ -9,7 +9,9 @@
 > 
 > I have thus far attempted to add more navigation pages (e.g. about & archives) within the theme, but unsucceeded.
 > 
-> I will keep working on this project, and post the update at my earliest convenience. _**Stay Tuned.**_
+> I will keep working on this project, and post the update at my earliest convenience. 
+> 
+> _**Stay Tuned.**_
 
 
 # Demo
