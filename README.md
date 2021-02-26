@@ -30,7 +30,7 @@ theme: elegance
 ```
 ### Step 3. start the server
 ```graphql
-hexo server   # or hexo s
+$ hexo server   # or hexo s
 ```
 default path: `http://localhost:4000/`
 
