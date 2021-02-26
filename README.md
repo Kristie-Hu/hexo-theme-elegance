@@ -5,13 +5,13 @@
 > 
 
 ### WARNING :exclamation: :exclamation: :exclamation:: This theme is still under construction, although it's perfectly fine to install.
-> This is a ported theme from Jekyll using bootstrap as its framework, on which I have little knowledge.
+> This theme was originally ported from Jekyll using bootstrap as its framework, on which I have little knowledge.
 > 
-> I have thus far attempted to add more navigation pages (e.g. about & archives) within the theme, but unsucceeded.
+> The theme works fine, but I'd like to add more navigation pages (e.g. about & archives) within homepage, but unsuccessful so far.
 > 
-> I will keep working on this project, and post the update at my earliest convenience. 
+> I will keep working on it, and post the update at my earliest convenience. 
 > 
-> _**Stay Tuned.**_
+> _**Please Stay Tuned.**_
 
 
 # Demo
