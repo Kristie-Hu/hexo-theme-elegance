@@ -1,17 +1,17 @@
 # Hexo-Theme-Elegance
 > Ported Theme of [Hux Blog](http://huangxuan.me/). Thank [Huxpro](https://github.com/Huxpro/huxpro.github.io) for designing such a flawless theme.
 > 
-> This Elegance theme was created by [Kriestie-Hu](https://github.com/Kristie-Hu) based on multiple ported themes by [Kaijun](https://github.com/Kaijun/hexo-theme-huxblog)(the original Porter), [Yu Hsuan Yen](https://github.com/YenYuHsuan/hexo-theme-beantech) and [V-Vincen (Vincent)](https://github.com/YenYuHsuan/hexo-theme-beantech) respectively, with simplified installation of one-time `git clone`.
+> This Elegance theme was created by [Kristie-Hu](https://github.com/Kristie-Hu) based on multiple ported themes by [Kaijun](https://github.com/Kaijun/hexo-theme-huxblog)(the original Porter), [Yu Hsuan Yen](https://github.com/YenYuHsuan/hexo-theme-beantech) and [V-Vincen (Vincent)](https://github.com/YenYuHsuan/hexo-theme-beantech) respectively (thank everyone for that ❤) , with simplified installation of one-time `git clone`.
 > 
 
 ### WARNING :exclamation: :exclamation: :exclamation:: This theme is still under construction, although it's perfectly fine to install.
-> This theme was originally ported from Jekyll using bootstrap as its framework, on which I have limited knowledge.
+> This theme was originally ported from Jekyll using bootstrap, a front-end language that I have little knowledge about.
 > 
-> This theme works just fine, but I'd like to add more navigation pages (e.g. about & archives) within homepage, but the result isn't good enough.
+> This theme works just fine under current situation, but I'd like to add more embedded navigation pages (i.e. about & archives) within the homepage, but I still haven't worked out yet.
 > 
-> I will keep working on it, and post the update at my earliest convenience. 
+> I will keep working at it, and hopefully solve this mystery. 
 > 
-> _**Please Stay Tuned.**_
+> _**Stay Tuned.**_
 
 
 # Demo
