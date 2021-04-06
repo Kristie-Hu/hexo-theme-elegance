@@ -1,15 +1,15 @@
 # Hexo-Theme-Elegance
 > Ported Theme of [Hux Blog](http://huangxuan.me/). Thank [Huxpro](https://github.com/Huxpro/huxpro.github.io) for designing such a flawless theme.
 > 
-> Theme Elegance was created by [Kristie-Hu](https://github.com/Kristie-Hu) on the basis of previous ported themes by [Kaijun](https://github.com/Kaijun/hexo-theme-huxblog)(the original Porter), [Yu Hsuan Yen](https://github.com/YenYuHsuan/hexo-theme-beantech) and [V-Vincen (Vincent)](https://github.com/V-Vincen/hexo-theme-livemylife) respectively (a big thank-you to everyone ❤). This port features one-off theme installation with `git clone` rather than overwriting the entire hexo blog.
+> Theme Elegance was created by [Kristie-Hu](https://github.com/Kristie-Hu) on the basis of previous ported versions by [Kaijun](https://github.com/Kaijun/hexo-theme-huxblog) (the original Porter), [Yu Hsuan Yen](https://github.com/YenYuHsuan/hexo-theme-beantech) and [V-Vincen (Vincent)](https://github.com/V-Vincen/hexo-theme-livemylife) respectively. (A big thank-you to everyone ❤). This ported theme features an one-off installation rather than overwrite the entire hexo blog.
 > 
 
-### WARNING :exclamation: :exclamation: :exclamation:: This theme is still under construction, although it's perfectly fine to install.
-> This theme was originally ported from Jekyll using bootstrap, a front-end language that I have little knowledge about.
+### WARNING :exclamation: :exclamation: :exclamation:: This theme is still under construction, install at your own risk.
+> This theme was originally ported from Jekyll using bootstrap, a front-end language I am not yet familiar with.
 > 
-> This theme works just fine under current situation, but I'd like to add more embedded navigation pages (i.e. about & archives) within the homepage, but I still haven't worked out yet.
+> This theme works just fine under current situation, but I'd like to add some more navigation tabs such as about and archives. However, my knowledge is still limited.
 > 
-> I will keep working at it, and hopefully solve this mystery. 
+> But I will stick to this theme, and work out the mystery ASAP. 
 > 
 > _**Stay Tuned.**_
 
