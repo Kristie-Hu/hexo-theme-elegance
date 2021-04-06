@@ -7,9 +7,9 @@
 ### WARNING :exclamation: :exclamation: :exclamation:: This theme is still under construction, install at your own risk.
 > This theme was originally ported from Jekyll using bootstrap, a front-end language I am not yet familiar with.
 > 
-> This theme works just fine under current situation, but I'd like to add some more navigation tabs such as about and archives. However, my knowledge is still limited.
-> 
-> But I will stick to this theme, and work out the mystery ASAP. 
+> This theme works just fine under current situation, but I'd like to add some more navigation tabs, such as about and archives and make a little tweaks on the overall style. 
+> However, my knowledge is still not sufficient enough for me to do so. Any help is WELCOME!
+> But I promise I will stick to this project, and work out the mystery ASAP. 
 > 
 > _**Stay Tuned.**_
 
