@@ -2,16 +2,16 @@
 > Ported Theme of [Hux Blog](http://huangxuan.me/). Thank [Huxpro](https://github.com/Huxpro/huxpro.github.io) for designing such a flawless theme.
 > 
 > Theme Elegance was created by [Kristie-Hu](https://github.com/Kristie-Hu) on the basis of previous ported versions by [Kaijun](https://github.com/Kaijun/hexo-theme-huxblog) (the original Porter), [Yu Hsuan Yen](https://github.com/YenYuHsuan/hexo-theme-beantech) and [V-Vincen (Vincent)](https://github.com/V-Vincen/hexo-theme-livemylife) respectively. (A big thank-you to everyone ❤).   
-> This ported theme features an one-off installation of 'git clone' to theme rather than overwriting the entire hexo blog.
+> This ported theme features an one-off installation of `git clone` *to the theme folder* rather than overwriting the entire hexo blog.
 > 
 
 ### WARNING :exclamation: :exclamation: :exclamation:: This theme is still under construction, install at your own risk.
-> This theme was originally ported from Jekyll using bootstrap, a front-end language I am not yet familiar with.
+> This theme was originally ported from Jekyll using Bootstrap, a front-end language I am not yet familiar about.
 > 
-> This theme works just fine under current situation, but I'd like to add some more navigation tabs, such as about and archives and make a little tweaks on the overall style. 
-> However, my knowledge is still not sufficient enough for me to do so. Any help will be WELCOME!
+> I have attempted to make several tweaks: adding some more navigation tabs within the home page, but to my current knowledge, I find no answer.   
+> Although fairly speaking, this theme works just fine under current situation, the style of the theme is still to be improved. Help will be appreciated!
 > 
-> But I promise I will stick to the project, and work out the mystery ASAP. 
+> But I promise I will always be committed to this project, and find the solution at the earliest time possible. 
 > 
 > _**Stay Tuned.**_
 
