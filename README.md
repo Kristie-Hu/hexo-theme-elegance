@@ -1,7 +1,8 @@
 # Hexo-Theme-Elegance
 > Ported Theme of [Hux Blog](http://huangxuan.me/). Thank [Huxpro](https://github.com/Huxpro/huxpro.github.io) for designing such a flawless theme.
 > 
-> Theme Elegance was created by [Kristie-Hu](https://github.com/Kristie-Hu) on the basis of previous ported versions by [Kaijun](https://github.com/Kaijun/hexo-theme-huxblog) (the original Porter), [Yu Hsuan Yen](https://github.com/YenYuHsuan/hexo-theme-beantech) and [V-Vincen (Vincent)](https://github.com/V-Vincen/hexo-theme-livemylife) respectively. (A big thank-you to everyone ❤). This ported theme features an one-off installation rather than overwrite the entire hexo blog.
+> Theme Elegance was created by [Kristie-Hu](https://github.com/Kristie-Hu) on the basis of previous ported versions by [Kaijun](https://github.com/Kaijun/hexo-theme-huxblog) (the original Porter), [Yu Hsuan Yen](https://github.com/YenYuHsuan/hexo-theme-beantech) and [V-Vincen (Vincent)](https://github.com/V-Vincen/hexo-theme-livemylife) respectively. (A big thank-you to everyone ❤).   
+> This ported theme features an one-off installation rather than overwrite the entire hexo blog.
 > 
 
 ### WARNING :exclamation: :exclamation: :exclamation:: This theme is still under construction, install at your own risk.
