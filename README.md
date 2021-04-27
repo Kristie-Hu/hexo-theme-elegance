@@ -9,7 +9,7 @@
 > This theme was originally ported from Jekyll using Bootstrap, a front-end language I am not yet familiar with.   
 > I have therefore, sought to personalize the theme (adding features like additional navigation tabs within the home page)   
 > But as I am relatively new to the front-end language, I struggle  to understand how the theme works, trying hard to enbed a page, but to no avail.   
-> Under current circumstances, this theme works just fine, though the style will need further improvement.   
+> Under current circumstances, this theme works just fine, though further improvement is needed in terms of the style.   
 > Any help will be appreciated!
 > 
 > Though it seems difficult (and intimidating as well) to someone who do not code regularly, I promise I will not abandon this project, and find the solution at the earliest time possible. 
