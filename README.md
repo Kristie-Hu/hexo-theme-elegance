@@ -6,10 +6,9 @@
 > 
 
 ### WARNING :exclamation: :exclamation: :exclamation:: This theme is still under construction, install at your own risk.
-> This theme was originally ported from Jekyll using Bootstrap, a front-end language I am not yet familiar with.   
-> I have therefore, sought to personalize the theme (adding features like additional navigation tabs within the home page)   
-> But as I am relatively new to the front-end language, I struggle  to understand how the theme works, trying hard to enbed a page, but to no avail.   
-> Under current circumstances, this theme works just fine, though further improvement is needed in terms of the style.   
+> This theme was originally ported from Jekyll using Bootstrap and mostly Javascript. However, I am not familiar with either of the language.
+> Although I have repeatedly sought to personalize the theme (adding features like additional navigation tabs within the home page) by myself, but to date, with no success.   
+> Under current circumstances, this theme works just fine, though further improvement is needed in terms of the styling.   
 > Any help will be appreciated!
 > 
 > Though it seems difficult (and intimidating as well) to someone who do not code regularly, I promise I will not abandon this project, and find the solution at the earliest time possible. 
